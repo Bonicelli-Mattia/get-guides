@@ -8,6 +8,8 @@
     <br />
     <br />
     <a href="https://getguides.herokuapp.com/">View App</a>
+    <br />
+    Please note: the app currently only renders on mobile
   </p>
 </p>
 
