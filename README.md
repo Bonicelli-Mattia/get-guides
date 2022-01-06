@@ -9,7 +9,12 @@
     <br />
     <a href="https://getguides.herokuapp.com/">View App</a>
     <br />
-    Please note: the app currently only renders on mobile
+    Please note: the app has been taken offline from its heroku deployment.
+    <br />
+    <br />
+    However, this project was presented as part of a full-stack engineering bootcamp app showcase event. 
+    <br />
+    You can see the event and the presentation at the following link: https://youtu.be/522BJezfQ5Y?t=260
   </p>
 </p>
 
@@ -34,9 +39,6 @@ Get Guides is a platform that connects freelance tour guides to tourists🏃‍�
 When organizing a trip somewhere, finding and hiring a guide is currently the only step that requires going through some sort of professional service such as a travel agency or a travel consultant🙅
 
 Get Guides aims to free travellers from that burden and allows them to directly access and interact with guides🔥
-
-This project was presented as part of a full-stack engineering bootcamp app showcase event.    
-You can see the event and the presentation at the following link: [Youtube](https://youtu.be/522BJezfQ5Y?t=260)
 
 ## Built With
 
